@@ -3,8 +3,8 @@ import Header from "./Header";
 
 function Section() {
     return (<>
-    <Header/>
-    <Paragraph/>
+    <Header text="exercise 1"/>
+    <Paragraph text= "I love cats!"/>
     </>);
   }
   
